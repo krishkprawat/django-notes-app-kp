@@ -4,3 +4,4 @@ services :
      image : krishpauri/my-note-app:latest
      ports :
          - "8000:8000"
+
